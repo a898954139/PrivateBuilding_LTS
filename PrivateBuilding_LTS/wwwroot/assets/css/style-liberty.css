@@ -15358,7 +15358,7 @@ p.count-text {
 /*--//stats--*/
 /*--/--*/
 .w3l-form-25-section {
-  background: url(../images/banner1.jpg) no-repeat center;
+  background: url(../images/architecture/start_rein.jpg) no-repeat center;
   -ms-background-size: cover;
   background-size: cover;
   z-index: 0;
@@ -15390,7 +15390,7 @@ p.count-text {
 /*--//--*/
 /* middle */
 .middle {
-  background: url(../images/banner2.jpg) no-repeat center;
+  background: url(../images/earthquake/LFE.jpg) no-repeat center;
   background-size: cover;
   -webkit-background-size: cover;
   -o-background-size: cover;
@@ -16412,7 +16412,7 @@ ul.page-pagination li a.next:hover {
 /*--//blog--*/
 /*--/inner-banner--*/
 .inner-banner {
-  background: url(../images/banner2.jpg) no-repeat center;
+  background: url(../images/architecture/Banner/1.jpg) no-repeat center;
   background-size: cover;
   min-height: 300px;
   position: relative;
