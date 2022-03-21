@@ -12,20 +12,19 @@ namespace PrivateBuilding_LTS.Models
         public int Id { get; set; }
 
         [Required]
-        [Display(Name ="發佈日期")]
-        [DataType(DataType.DateTime)]
-        public int Date { get; set; }
-
-        [Required]
         [Display(Name = "類型")]
         public string Type { get; set; }
 
         [Required]
         [Display(Name = "公告主旨")]
-        public int Title { get; set; }
+        public string Title { get; set; }
 
         [Required]
         [Display(Name = "公告內容")]
         public string Content { get; set; }
+
+        [Display(Name ="發佈日期")]
+        [DisplayFormat(ApplyFormatInEditMode = true, DataFormatString = "{0:MM/dd/yyyy}")]
+        public DateTime PostDate { get; set; }
     }
 }
