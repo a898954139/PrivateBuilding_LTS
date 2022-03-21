@@ -16213,19 +16213,19 @@ div#small-dialog iframe {
   z-index: 1;
 }
 .w3l-homeblog .top-pic2 {
-  background: url(../images/ab1.jpg) no-repeat 0px 0px;
+  background: url(../images/topPics/pic2-1.jpg) no-repeat 0px 0px;
   background-size: cover;
 }
 .w3l-homeblog .top-pic3 {
-  background: url(../images/ab2.jpg) no-repeat 0px 0px;
+  background: url(../images/topPics/pic3.jpg) no-repeat 0px 0px;
   background-size: cover;
 }
 .w3l-homeblog .top-pic4 {
-  background: url(../images/ab3.jpg) no-repeat 0px 0px;
+  background: url(../images/topPics/manual.jpg) no-repeat 0px 0px;
   background-size: cover;
 }
 .w3l-homeblog .top-pic5 {
-  background: url(../images/ab4.jpg) no-repeat 0px 0px;
+  background: url(../images/topPics/game.jpg) no-repeat 0px 0px;
   background-size: cover;
 }
 .w3l-homeblog .top-pic6 {
